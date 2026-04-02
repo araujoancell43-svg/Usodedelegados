@@ -24,7 +24,9 @@ El delegado ejecuta el cálculo y muestra el resultado.
 
 # Entrada:
 Ingrese la primera cantidad: 10
+
 Elija operación (sum, res, mul, div): sum
+
 Ingrese la segunda cantidad: 5
 
 # Salida:
